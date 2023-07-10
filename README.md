@@ -1,4 +1,4 @@
-# React + Typescript + Tailwind + React router + React hot toast Here💫
+### React + Typescript + Tailwind + React router + React hot toast Here💫
 
 ## env
 ```
