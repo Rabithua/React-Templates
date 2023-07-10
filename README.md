@@ -1,4 +1,4 @@
-> Here is a collection of commonly used React development templates that can help you quickly get started with a new React application:
+> Here is a collection of commonly used React development templates that can help you quickly get started with a new React application
 
 ## LIST
 - [React + Typescript + Tailwind + React Router + React Hot Toast Here💫](https://github.com/Rabithua/React-Templates/tree/React-Typescript-Tailwind-ReactRouter-ReactHotToast)
